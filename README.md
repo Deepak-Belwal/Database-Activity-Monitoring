@@ -8,7 +8,7 @@ Before using the code, make sure that you have mysql and python installed in you
 1. Open the project folder in terminal and run the command --> python app.py [This is to run the backend]
 2. Open the Link provided in the terminal ( http://127.0.0.1:5000/ ) and follow the login.
 3. Monitor the system and check the system after any changes are made.
--Copy & Paste the following code for testing:
+-Copy & Paste the following code for testing:\n
          INSERT INTO users VALUES (2,"Ram","ramesh@gmail.com");
          UPDATE users SET username = "Ramesh" WHERE user_id = 2;
          DELETE FROM users WHERE user_id = 2;
