@@ -16,11 +16,11 @@ Before using the code, make sure that you have mysql and python installed in you
 
 # Screenshots
 
-<h1>A SIMPLE LOGIN PAGE:</h1>
+<h3>A SIMPLE LOGIN PAGE:</h3>
 <img width="1865" height="902" alt="image" src="https://github.com/user-attachments/assets/4c9163ef-2b47-400e-89b5-ba9cf84b7b36" />
 
 
-<h1>A SIMPLE MONITOR WINDOW:</h1>
+<h3>A SIMPLE MONITOR WINDOW:</h3>
 <img width="1862" height="904" alt="image" src="https://github.com/user-attachments/assets/af2deb83-ae51-49f3-9f0b-1e938393839d" />
 
 
